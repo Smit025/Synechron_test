@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Synechron_test</string>
+    <string name="chat">Chat</string>
+    <string name="call">Call</string>
+    <string name="title">Title</string>
+    <string name="office_timing">Office Hours: %1$s</string>
+    <string name="office_closed">Work hours has ended. Please contact us again on the next work day.</string>
+    <string name="office_open">Thank you for getting in touch with us. We’ll get back to you as soon as possible.</string>
+</resources>
